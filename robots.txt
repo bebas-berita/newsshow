@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bebas-berita.github.io/newsshow/sitemap.xml
